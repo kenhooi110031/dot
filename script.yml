@@ -31,4 +31,4 @@ jobs:
       #     }
 
       - name: Run server script
-        run: python .github/workflows/server.py
+        run: python server.py
